@@ -1,2 +1,2 @@
 # Mini-ex
-A protefolio of my mini exercises
+A portfolio of my mini exercises
