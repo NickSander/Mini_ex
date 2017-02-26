@@ -14,7 +14,7 @@ function draw() {
    fill(0, 20); //Draws a rect with alphavalue (20) behind spinning ellipses to create a 'tail'
     rect(108, 61, 635, 315);
  
-    //draws the four throppers with num%, X, Y, color values
+    //draws the four throbbers with num%, X, Y, color values
  drawThrobber(60, 0, 0, 'blue');
  drawThrobber(60, 14, 9, 'yellow');
  drawThrobber(60, 0, -17,'red');
