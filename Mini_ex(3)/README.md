@@ -8,8 +8,8 @@ and i decided to make that. So that's what i did!
 The procces, working with the throbber code, was extremely fun and fruitful and several mini project with my co-students, emerged from
 working with the throbber throughout the week. We made several different throbbers and even used the rotationg syntax to create a small-
 time 'simulation' of the solar systems orbit around the sun. 
-(Here's an example of the solar system. [Program Weblink](https://rawgit.com/NickSander/Mini_ex/gh-pages/Mini_ex(3)/solar%20system/index.html)
+(Here's an example of the solar system. [Solar System link](https://rawgit.com/NickSander/Mini_ex/gh-pages/Mini_ex(3)/solar%20system/index.html)
 note: The code is written in cooperation with my co-student Magnus(https://github.com/MagnusJMJ)
 but he did most of the coding)
 
-[Program Weblink](https://rawgit.com/NickSander/Mini_ex/gh-pages/Mini_ex(3)/index.html)
+[Chrome throbber link](https://rawgit.com/NickSander/Mini_ex/gh-pages/Mini_ex(3)/index.html)
