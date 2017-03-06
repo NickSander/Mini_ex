@@ -37,7 +37,8 @@ function draw () {
   col.g = random(0,255);
   col.b = random(0,255);
 
-//uses the for loop function to draw the ellipses
+if (mouseY <= windowHeight/2) {
+    //uses the for loop function to draw the ellipses
     for (x = 50; x <= width; x+=100){
     fill(col.r, col.g, col.b);
     ellipse(x, 50, circle.size, circle.size);
@@ -73,4 +74,41 @@ function draw () {
                   ellipse(x, 650, circle.size, circle.size);
                 }
 
+  } else {
+    rectMode(RADIUS);
+    for (x = 50; x <= width; x+=100){
+    fill(col.r, col.g, col.b);
+    rect(x, 50, circle.size, circle.size);
+    }
+
+      for (x = 50; x <= width; x+=100){
+        fill(col.r, col.g, col.b);
+        rect(x, 150, circle.size, circle.size);
+      }
+
+        for (x = 50; x <= width; x+=100){
+          fill(col.r, col.g, col.b);
+          rect(x, 250, circle.size, circle.size);
+        }
+
+          for (x = 50; x <= width; x+=100){
+            fill(col.r, col.g, col.b);
+            rect(x, 350, circle.size, circle.size);
+          }
+
+            for (x = 50; x <= width; x+=100){
+              fill(col.r, col.g, col.b);
+              rect(x, 450, circle.size, circle.size);
+            }
+
+              for (x = 50; x <= width; x+=100){
+                fill(col.r, col.g, col.b);
+                rect(x, 550, circle.size, circle.size);
+              }
+
+                for (x = 50; x <= width; x+=100){
+                  fill(col.r, col.g, col.b);
+                  rect(x, 650, circle.size, circle.size);
+                }
   }
+}
