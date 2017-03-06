@@ -17,5 +17,7 @@ i couldn't figure out how to also make a for loop for the ellipses to be drawn a
 
 It contains the conecpt of feedback in the shape of the ellipse sizes and background color you can control with the mouse cursor, and the concept of loop in the use of for loop function.
 
+Oh, and i also implemented the conditional statment "if" and "else" to dictate whether the shapes are ellipses or rectangles.
+
 [Link to "last-Minute-Throw-Together-To-Explore-Feedback-With-A-Hint-Of-for-loop"](https://rawgit.com/NickSander/Mini_ex/gh-pages/Mini_ex(4)/index.html
 )
