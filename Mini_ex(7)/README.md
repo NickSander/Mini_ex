@@ -5,3 +5,4 @@
 My form art is a crossover between the p5.dom and the p5.sound library.
 I used the p5.Amplitude function to get the amplitude levels of a mp3 file, I then mapped those to value of the p5.dom sliders. I drew them in a for loop, i rotated them and i made them bigger, so they resemble a sound wave. simple, yet aestheticly beatiful.
 
+In my limited experience objects often seems like a good way to make a code easier for you and your piers to organise/read. It helps structure the code, and makes for easy access etc. I do sometimes feel, that objects have a tendensy to overcomplicates situaitions, and have the oppesite effect of its original intend. It can actually be harder to read and understand. Objects also seem very ea
