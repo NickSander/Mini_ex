@@ -53,7 +53,7 @@ this.run = function() {
 
   stroke(0);
   noStroke();
-    fill(55,180,213,);
+    fill(55,180,213);
     ellipse(this.position.x, this.position.y, random(41, 44), random(41, 44));
 
     //When the ellipses hits the canvas borders they 'reset'
